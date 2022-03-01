@@ -1,3 +1,6 @@
+DROP DATABASE IF EXISTS balance_fx;
+CREATE DATABASE IF EXISTS balance_fx;
+USE balance_fx;
 
 DROP TABLE IF EXISTS `balances`;
 CREATE TABLE `balances` (
