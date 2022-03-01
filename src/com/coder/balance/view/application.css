@@ -1,0 +1,22 @@
+.mainView{
+	-fx-background-color: silver;
+}
+
+.titleBar{
+	-fx-background-color: #8A0F24;
+}
+
+.textWhite{
+	-fx-text-fill: white;
+}
+
+.fontFamily{
+	-fx-font-family:"Century Schoolbook";
+	-fx-font-weight: 900;
+}
+
+.paddingField{
+	-fx-padding:0 0 0 17;
+}
+
+ 
